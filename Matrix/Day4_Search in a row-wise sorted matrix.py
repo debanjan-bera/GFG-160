@@ -6,4 +6,5 @@ class Solution:
     	for row in mat:
     	    if x in row:
     	        return True
+			
     	return False
