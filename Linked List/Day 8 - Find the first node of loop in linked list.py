@@ -9,3 +9,8 @@ class Solution:
                     slow, fast = slow.next, fast.next
                 return slow
         return None
+
+
+
+
+        
